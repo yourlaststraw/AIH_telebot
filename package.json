@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@grammyjs/menu": "^1.3.0",
+    "@grammyjs/stateless-question": "^4.0.0",
+    "axios": "^1.8.1",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.7",
+    "grammy": "^1.35.0",
+    "node-cron": "^3.0.3",
+    "node-telegram-bot-api": "^0.66.0",
+    "sentiment": "^5.0.2"
+  }
+}
